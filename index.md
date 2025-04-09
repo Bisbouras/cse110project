@@ -49,4 +49,4 @@ Now, here is the same list but ordered!
 
 Here is a cool logo I made years ago!
 
-![Logo](hq bisbo.png)
+![Logo](bisbo.png)
